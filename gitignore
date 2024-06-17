@@ -1,0 +1,6 @@
+.vscode
+venv
+operations.db
+data/operations.csv
+
+__pycache__

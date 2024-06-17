@@ -1,0 +1,7 @@
+.vscode
+.gitignore
+venv
+data/operations.csv
+__pycache__
+operations.db
+api.http
